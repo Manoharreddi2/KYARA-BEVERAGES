@@ -47,7 +47,7 @@ Edit
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Kyara Homepage](images/hero.png)
 
