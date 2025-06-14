@@ -27,7 +27,7 @@ Kyara/
 └── styles/
 └── style.css (optional)
 
-yaml
+
 Copy
 Edit
 
