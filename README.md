@@ -49,7 +49,8 @@ Edit
 
 ## Preview
 
-![Kyara Homepage](images/hero.png)
+![Kyara Homepage](![Screenshot 2025-06-14 201240](https://github.com/user-attachments/assets/7b961653-be4f-4743-94ba-648a3d1dbbb2)
+.png)
 
 ---
 
