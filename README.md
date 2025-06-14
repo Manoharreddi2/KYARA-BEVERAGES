@@ -18,14 +18,14 @@ Designed using **HTML5** and styled with **Tailwind CSS** for smooth layout and 
 ## 📂 Project Structure
 
 Kyara/
-├── index.html                ← Main homepage file
-├── images/                  ← Folder containing all images
-│   ├── hero.png             ← Logo or hero image
-│   ├── citrus-zest.png      ← Image of Citrus Zest drink
-│   ├── berry-bliss.png      ← Image of Berry Bliss drink
-│   └── minty-chill.png      ← Image of Minty Chill drink
-└── styles/                  ← Folder for optional CSS
-    └── style.css            ← Custom styling (if used)
+├── index.html
+├── images/
+│ ├── hero.png
+│ ├── citrus-zest.png
+│ ├── berry-bliss.png
+│ └── minty-chill.png
+└── styles/
+└── style.css (optional)
 
 
 
